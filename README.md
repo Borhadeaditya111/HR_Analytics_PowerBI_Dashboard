@@ -17,19 +17,19 @@ Average Salary (Avg_Salary): 6.5K
 # Key Analysis and Insights
 The dashboard focuses on key areas that influence employee turnover, providing targeted insights:
 
-Attrition by Education Field:
+-Attrition by Education Field:
 
 The highest attrition is observed among employees with backgrounds in Life Sciences (38.4%) and Medical (24.9%), indicating an urgent need for targeted retention strategies in these fields.
 
-Attrition by Age Group:
+-Attrition by Age Group:
 
 The 26-35 age group accounts for the highest number of attritions (111), highlighting that the company is losing a significant portion of its mid-career/young professional talent.
 
-Attrition by Job Role:
+-Attrition by Job Role:
 
 Roles like Laboratory Technician (60) and Sales Executive (55) show the highest attrition counts, suggesting potential issues with workload, career growth, or job satisfaction within these specific teams.
 
-Job Satisfaction:
+-Job Satisfaction:
 
 A breakdown of Job Satisfaction levels (rated 1 to 4) across different job roles helps pinpoint where low satisfaction is most severely contributing to the overall attrition rate.
 
